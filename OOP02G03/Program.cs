@@ -57,6 +57,18 @@ namespace OOP02G03
             //center.AddShipment(exp);
             //center.AddShipment(intl);
             #endregion
-        }        
-    }             
+            #region 07
+            //center.PrintAllShipments();
+
+
+            //Console.WriteLine("\nEnter Tracking Code to Remove:");
+            //string codeToRemove = Console.ReadLine(); 
+            //Console.WriteLine();
+
+            //center.RemoveShipment(codeToRemove);
+
+            //center.PrintAllShipments("Remaining Shipments");
+            #endregion
+        }
+    }
 }
